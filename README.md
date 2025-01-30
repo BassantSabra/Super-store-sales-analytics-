@@ -5,6 +5,7 @@
 
 ## Overview
 This Power BI project follows a **star schema** structure, designed for efficient analysis of sales, profit, and returns data. The model consists of a central fact table (`fact-Orders`) surrounded by multiple dimension tables, enabling powerful filtering and aggregations.
+source of data : https://www.kaggle.com/datasets/bitricks/superstore-dataset
 
 ## Data Model Structure
 
