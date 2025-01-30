@@ -1,11 +1,10 @@
-# Super-store-sales-analytics-
 
-# Power BI Data Model - Super Store Dashboard
+# Super Store Dashboard
+
+![Screenshot 2025-01-30 041535](https://github.com/user-attachments/assets/172da686-c5c0-4cf4-ac5b-4d7947250454)
 
 ## Overview
 This Power BI project follows a **star schema** structure, designed for efficient analysis of sales, profit, and returns data. The model consists of a central fact table (`fact-Orders`) surrounded by multiple dimension tables, enabling powerful filtering and aggregations.
-
----
 
 ## Data Model Structure
 
@@ -83,11 +82,6 @@ This Power BI project follows a **star schema** structure, designed for efficien
 
 
 # Power BI Data Model - Super Store Dashboard
-
-
-
-![Screenshot 2025-01-30 041535](https://github.com/user-attachments/assets/172da686-c5c0-4cf4-ac5b-4d7947250454)
-
 
 
 ## Key Performance Indicators (KPIs)
