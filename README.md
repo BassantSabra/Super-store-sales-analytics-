@@ -142,7 +142,7 @@ This Power BI project follows a **star schema** structure, designed for efficien
 ---
 
 ## Actionable Recommendations
- **you can check the finial report**
+ **you can check the attached finial report**
    
 
 
