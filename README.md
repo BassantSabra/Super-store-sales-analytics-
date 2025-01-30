@@ -80,10 +80,6 @@ This Power BI project follows a **star schema** structure, designed for efficien
 ![Screenshot 2025-01-30 033349](https://github.com/user-attachments/assets/d27f3698-e720-4d30-af29-8d4b4a2c0914)
 
 
-
-# Power BI Data Model - Super Store Dashboard
-
-
 ## Key Performance Indicators (KPIs)
 - **Profit:**
   - CY: $286.40K, PY: $192.96K, YoY Growth: 48.42%
