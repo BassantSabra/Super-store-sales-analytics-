@@ -1,7 +1,8 @@
 
-# Super Store Dashboard
+# Published Super Store Dashboard
 
-![Screenshot 2025-01-30 041535](https://github.com/user-attachments/assets/172da686-c5c0-4cf4-ac5b-4d7947250454)
+![Screenshot 2025-02-01 030401](https://github.com/user-attachments/assets/a328ee4e-37cb-45ec-a2ff-c8dde7abdb67)
+
 
 ## Overview
 This Power BI project follows a **star schema** structure, designed for efficient analysis of sales, profit, and returns data. The model consists of a central fact table (`fact-Orders`) surrounded by multiple dimension tables, enabling powerful filtering and aggregations note that the source of data : https://www.kaggle.com/datasets/bitricks/superstore-dataset
