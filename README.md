@@ -5,7 +5,14 @@
 
 
 ## Overview
-This Power BI project follows a **star schema** structure, designed for efficient analysis of sales, profit, and returns data. The model consists of a central fact table (`fact-Orders`) surrounded by multiple dimension tables, enabling powerful filtering and aggregations note that the source of data : https://www.kaggle.com/datasets/bitricks/superstore-dataset
+This Power BI project follows a **star schema** structure, designed for efficient analysis of sales, profit, and returns data. The model consists of a central fact table (`fact-Orders`) surrounded by multiple dimension tables, enabling powerful filtering and aggregations note that the source of data : https://www.kaggle.com/datasets/bitricks/superstore-dataset 
+ I try to answer the following questions :
+- 1.	Metrics - Sales, Profit, % of Returned Orders. Show % change vs. PY.
+- 2.	Compare Sales performance versus previous year over time?
+- 3.	Determine the most profitable product and the product with the most loss?
+- 4.	Find out the place where most of the profit is happening?
+- 5.	Sales by Segment?
+
 
 ## Data Model Structure
 
